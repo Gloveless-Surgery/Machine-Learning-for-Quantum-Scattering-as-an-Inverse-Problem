@@ -1,6 +1,6 @@
 # Machine Learning for Quantum Scattering as an Inverse Problem
 
-This repository contains a small PyTorch-based framework to study quantum scattering as an inverse problem for the 2D Schrödinger equation.  
+This repository contains a small PyTorch-based framework to study quantum scattering as an inverse problem for the 3D Schrödinger equation.  
 A Lippmann–Schwinger (LS) forward solver is used to map a Yukawa-type potential to far-field scattering amplitudes, and a neural network is trained to infer the potential from synthetic data.
 
 ## Files
